@@ -29,5 +29,9 @@ It states that clients should not be forced to implement interfaces they don’t
 High-level modules should not depend on low-level modules both should depend on Abstractions. (Abstractions should not depend upon details. Details should depend upon abstractions)
 
 
+
+
 #### Source
 https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
+
+https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226
